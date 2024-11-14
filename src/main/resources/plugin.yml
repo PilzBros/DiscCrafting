@@ -1,0 +1,6 @@
+name: DiscCrafting
+author: Livid_C0ffee
+version: 1
+description: Craft discs!
+main: com.pilzbros.disccrafting.DiscCrafting
+commands:
